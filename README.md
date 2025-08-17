@@ -10,7 +10,7 @@ Below is an example of the model's performance after logging 5 sample prediction
 
 
 - **Left (scatter plot):** Predicted vs. actual energy use.  
-  The red line shows a “perfect” prediction — points on this line would mean the model guessed exactly right.  
+  The red line shows a “perfect” prediction,points on this line would mean the model guessed exactly right.  
 - **Right (bar chart):** Absolute error for each prediction.  
   Lower bars = closer to the actual usage.  
 
